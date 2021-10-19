@@ -1,0 +1,61 @@
+
+body{
+    background-color: #ffffff;
+    color: #030303;
+    margin: 18px 18px 0px 18px;
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.5em;
+}
+main{
+    background-color: #c7c7c7;
+    padding-left: 400px;
+    padding-right: 400px;
+    min-width: 300px;
+
+
+
+
+}
+#title{
+    padding-top: 10px;
+
+}
+#image{
+
+    /*height: 650px;
+    width: 700px;*/
+    max-width: 50%;
+    justify-content: center;
+    display: block;
+    margin: auto;
+
+
+
+
+
+
+}
+#img-div{
+    background-color: #ffffff;
+    min-width: 300px;
+    min-height: 300px;
+
+
+
+
+
+
+}
+#image-caption{
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+.quote{
+    font-style: italic;
+
+}
+.tribute-title{
+padding-top: -10px;
+}
